@@ -1,0 +1,23 @@
+{
+  "name": "MedNexus",
+  "short_name": "MedNexus",
+  "description": "Enterprise AI Clinical Triage System",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#030712",
+  "theme_color": "#2563eb",
+  "icons": [
+    {
+      "src": "/icon512.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon512.jpg",
+      "sizes": "192x192",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    }
+  ]
+}
